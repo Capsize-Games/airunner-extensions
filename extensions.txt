@@ -1,2 +1,2 @@
 name,description,repo,version,reviewed,official
-airunner-lora,Adds support for LoRA,Capsize-Games/airunner-lora,1.0.1,true,true
+airunner-lora,Adds support for LoRA,Capsize-Games/airunner-lora,1.0.2,true,true
